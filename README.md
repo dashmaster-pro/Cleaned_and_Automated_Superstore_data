@@ -1,0 +1,2 @@
+# Cleaned_and_Automated_Superstore_data
+Sample_for_data_cleaning_gigs
